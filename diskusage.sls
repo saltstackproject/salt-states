@@ -1,3 +1,2 @@
 diskusage:
-  cmd.run:
-    - df
+  cmd.run: df
