@@ -1,4 +1,4 @@
 diskusage:
   cmd.run:
-    - name: df -h
-    - name: ls -ld /packages
+    - utilization: df -h
+    - dirctory: ls -ld /packages
