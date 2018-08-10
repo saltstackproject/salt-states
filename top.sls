@@ -1,0 +1,4 @@
+base:
+  '*':
+    - diskusage
+    - vim
